@@ -1,0 +1,6 @@
+*.iml
+*.class
+.idea/
+.contents/
+.tests/
+out/

@@ -1,6 +1,6 @@
-*.iml
 *.class
-.idea/
 .contents/
 .tests/
 out/
+**/.idea/workspace.xml
+**/.idea/tasks.xml

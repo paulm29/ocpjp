@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10_concurrency/10_concurrency.iml" filepath="$PROJECT_DIR$/10_concurrency/10_concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_jdbc/11_jdbc.iml" filepath="$PROJECT_DIR$/11_jdbc/11_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_localization/12_localization.iml" filepath="$PROJECT_DIR$/12_localization/12_localization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_class_design/1_class_design.iml" filepath="$PROJECT_DIR$/1_class_design/1_class_design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_advanced_class_design/2_advanced_class_design.iml" filepath="$PROJECT_DIR$/2_advanced_class_design/2_advanced_class_design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_generics_and_collections/3_generics_and_collections.iml" filepath="$PROJECT_DIR$/3_generics_and_collections/3_generics_and_collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_lambda_functional_interfaces/4_lambda_functional_interfaces.iml" filepath="$PROJECT_DIR$/4_lambda_functional_interfaces/4_lambda_functional_interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_stream_api/5_stream_api.iml" filepath="$PROJECT_DIR$/5_stream_api/5_stream_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_exceptions_and_assertions/6_exceptions_and_assertions.iml" filepath="$PROJECT_DIR$/6_exceptions_and_assertions/6_exceptions_and_assertions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_date-time_api/7_date-time_api.iml" filepath="$PROJECT_DIR$/7_date-time_api/7_date-time_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_io_fundamentals/8_io_fundamentals.iml" filepath="$PROJECT_DIR$/8_io_fundamentals/8_io_fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9_file_io/9_file_io.iml" filepath="$PROJECT_DIR$/9_file_io/9_file_io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ocpjp.iml" filepath="$PROJECT_DIR$/ocpjp.iml" />
+    </modules>
+  </component>
+</project>

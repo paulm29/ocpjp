@@ -1,6 +1,8 @@
 /**
-    6. Develop code that uses static keyword on initialize blocks,
+    1.6. Develop code that uses static keyword on initialize blocks,
         variables, methods, and classes
+
+    Note: this topic was covered deeply in OCAJP, so not much code here
  */
 public class Obj16 {
     private static int count = 0;
@@ -37,8 +39,15 @@ public class Obj16 {
     public static void main(String[] args) {
         Obj16.decrement();
         /*
-         99 because constructor not invoked, as no instance
+            99 because constructor not invoked, as no instance created
           */
+        System.out.println(count);
+
+        /*
+            Calling static method on instance variable
+         */
+        Obj16 one = new Obj16();
+        one.decrement();
         System.out.println(count);
     }
 }

@@ -1,5 +1,5 @@
 /**
-    3. Implement polymorphism
+    1.3. Implement polymorphism
 
     Two types:
     - static (early binding): at compile time, using method and constructor overloading
@@ -50,7 +50,7 @@ public class Obj13 {
         Obj13 obj13 = new Obj13();
         obj13.printValue(b);
         obj13.printValue(s);
-        // obj13.printValue(d); // compile error
+        // obj13.printValue(d); // compile error, no match
 
         //obj13.printValue(1,1); // compile error, ambiguous
     }

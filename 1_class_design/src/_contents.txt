@@ -1,7 +1,32 @@
 1. Java Class Design
-Implement encapsulation
-Implement inheritance including visibility modifiers and composition
-Implement polymorphism
-Override hashCode, equals, and toString methods from Object class
-Create and use singleton classes and immutable classes
-Develop code that uses static keyword on initialize blocks, variables, methods, and classes
+
+1.1 Implement encapsulation
+
+1.2 Implement inheritance including visibility modifiers and composition
+2.1
+2.2
+2.16-2.18 HAS-A vs IS-A
+
+1.3 Implement polymorphism
+2.3 runtime polymorphism (method overriding)
+2.4 method overloading
+2.5 constructor overloading
+2.6 method overloading resolution
+2.7 overloading error
+2.8 overloading error
+
+1.4 Override hashCode, equals, and toString methods from Object class
+2.9 and 2.10 - toString
+2.11 - 2.14 - equals
+2.15 - hashcode
+
+1.5 Create and use singleton classes and immutable classes
+2.19 singleton
+2.20 singleton multi-threaded
+2.21 singleton mult-threaded with inner class
+2.22 immutable
+
+1.6 Develop code that uses static keyword on initialize blocks, variables, methods, and classes
+2.23
+2.24
+2.25
